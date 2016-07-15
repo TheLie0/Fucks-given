@@ -1,4 +1,4 @@
 def fucksgiven():
 	fucks = 0
-	print str(fucks)
+	print "Fucks given: " + str(fucks)
 	return fucks
